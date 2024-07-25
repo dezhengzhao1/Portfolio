@@ -1,2 +1,2 @@
 # Portfolio
-My work and skills showcase
+My work and skills showcase.
